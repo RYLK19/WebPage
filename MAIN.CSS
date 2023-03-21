@@ -1,0 +1,26 @@
+.middle {
+    float: center;
+    max-width: 500px;
+    height: 100%;
+}
+.left{
+    float: left;
+    max-width: 400px;
+    height: 100%;
+}
+.right {
+    float: right;
+    max-width: 400px;
+    height: 100%;
+}
+.background {
+    background-image: url('https://assets.reedpopcdn.com/game-awards-2022.jpg/BROK/resize/690>/format/jpg/quality/75/game-awards-2022.jpg');
+    background-repeat: no-repeat; background-attachment: fixed; background-size: cover
+}
+.textmid {
+    text-align: center;
+    
+}
+.fixthisshit {
+    margin: 20px;
+}
